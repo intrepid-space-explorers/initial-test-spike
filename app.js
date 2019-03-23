@@ -8,7 +8,7 @@ var new_dot_three = randomize();
 
 function setup() {
   var cnv = createCanvas(windowWidth, windowHeight, WEBGL);
-  background(0, 0, 0);
+  background(0);
 }
 
 function windowResized() {
