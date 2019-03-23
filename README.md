@@ -1,1 +1,3 @@
-# initial-test-spike
+# Test Spike  
+  
+An initial test/proof of concept.  
