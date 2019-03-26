@@ -42,7 +42,7 @@ function draw() {
 function randomize() {
   var randomX = Math.floor(((Math.random() * (window.innerWidth - 20)) - (window.innerWidth / 2) + 10));
   var randomY = Math.floor(((Math.random() * (window.innerHeight - 20)) - (window.innerHeight / 2) + 10));
-  var randomZ = Math.floor(Math.random() * -100);
+  var randomZ = Math.floor(Math.random() * -1000);
 
   var coordinates = [randomX, randomY, randomZ];
   console.log(coordinates);
